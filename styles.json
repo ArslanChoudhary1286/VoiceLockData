@@ -1,0 +1,21 @@
+{
+  "dataVersion": 1,
+  "list": [
+
+    {
+      "category": "Emoji",
+      "label": "Face",
+      "primary": "#000000",
+      "secondary": "#000000",
+      "premium": false
+    },
+    {
+      "category": "Emoji",
+      "label": "Star",
+      "primary": "#000000",
+      "secondary": "#000000",
+      "premium": false
+    }
+
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "dataVersion": 1,
+  "list": [
+
+    {
+      "category": "Anime",
+      "label": "Naruto",
+      "total": 1,
+      "premium": false
+    },
+    {
+      "category": "Anime",
+      "label": "JJK",
+      "total": 1,
+      "premium": false
+    },
+
+
+    {
+      "category": "Vehicle",
+      "label": "Bike",
+      "total": 1,
+      "premium": false
+    },
+    {
+      "category": "Vehicle",
+      "label": "Car",
+      "total": 1,
+      "premium": false
+    },
+
+
+    {
+      "category": "People",
+      "label": "Boy",
+      "total": 1,
+      "premium": false
+    },
+    {
+      "category": "People",
+      "label": "Girl",
+      "total": 1,
+      "premium": false
+    }
+
+  ]
+}
