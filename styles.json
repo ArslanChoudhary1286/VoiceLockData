@@ -6,14 +6,14 @@
       "category": "Emoji",
       "label": "Face",
       "primary": "#000000",
-      "secondary": "#000000",
+      "secondary": "#FFFFFF",
       "premium": false
     },
     {
       "category": "Emoji",
       "label": "Star",
       "primary": "#000000",
-      "secondary": "#000000",
+      "secondary": "#FFFFFF",
       "premium": false
     }
 
