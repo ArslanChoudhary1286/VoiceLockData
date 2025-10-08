@@ -2,16 +2,43 @@
   "dataVersion": 1,
   "list": [
 
+
     {
       "category": "Anime",
-      "label": "Naruto",
-      "total": 1,
+      "label": "AI",
+      "total": 5,
       "premium": false
     },
     {
       "category": "Anime",
-      "label": "JJK",
+      "label": "Naruto",
+      "total": 2,
+      "premium": false
+    },
+    {
+      "category": "Anime",
+      "label": "Pokemon",
       "total": 1,
+      "premium": false
+    },
+
+
+    {
+      "category": "Nature",
+      "label": "Sea",
+      "total": 2,
+      "premium": false
+    },
+    {
+      "category": "Nature",
+      "label": "Stone",
+      "total": 1,
+      "premium": false
+    },
+    {
+      "category": "Nature",
+      "label": "Tree",
+      "total": 3,
       "premium": false
     },
 
@@ -25,7 +52,7 @@
     {
       "category": "Vehicle",
       "label": "Car",
-      "total": 1,
+      "total": 2,
       "premium": false
     },
 
@@ -33,7 +60,7 @@
     {
       "category": "People",
       "label": "Boy",
-      "total": 1,
+      "total": 2,
       "premium": false
     },
     {
