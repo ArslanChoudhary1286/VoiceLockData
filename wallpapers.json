@@ -24,6 +24,33 @@
 
 
     {
+      "category": "AI",
+      "label": "Home",
+      "total": 1,
+      "premium": false
+    },
+    {
+      "category": "AI",
+      "label": "Nature",
+      "total": 3,
+      "premium": false
+    },
+    {
+      "category": "AI",
+      "label": "Crazy",
+      "total": 1,
+      "premium": false
+    },
+    {
+      "category": "AI",
+      "label": "Pattern",
+      "total": 1,
+      "premium": false
+    },
+
+
+
+    {
       "category": "Nature",
       "label": "Sea",
       "total": 2,
