@@ -15,6 +15,27 @@
       "primary": "#000000",
       "secondary": "#FFFFFF",
       "premium": false
+    },
+    {
+      "category": "Emoji",
+      "label": "Dollar",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+    {
+      "category": "Emoji",
+      "label": "Simple",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+    {
+      "category": "Emoji",
+      "label": "Heart",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
     }
 
   ]
