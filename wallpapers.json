@@ -4,6 +4,26 @@
 
 
     {
+      "category": "Christmas",
+      "label": "Santa",
+      "total": 2,
+      "premium": false
+    },
+    {
+      "category": "Christmas",
+      "label": "Tree",
+      "total": 1,
+      "premium": false
+    },
+    {
+      "category": "Christmas",
+      "label": "Random",
+      "total": 2,
+      "premium": false
+    },
+
+
+    {
       "category": "Anime",
       "label": "AI",
       "total": 5,
