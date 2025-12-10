@@ -11,21 +11,7 @@
     },
     {
       "category": "Emoji",
-      "label": "Star",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "premium": false
-    },
-    {
-      "category": "Emoji",
       "label": "Dollar",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "premium": false
-    },
-    {
-      "category": "Emoji",
-      "label": "Simple",
       "primary": "#000000",
       "secondary": "#FFFFFF",
       "premium": false
@@ -36,7 +22,88 @@
       "primary": "#000000",
       "secondary": "#FFFFFF",
       "premium": false
+    },
+
+
+    {
+      "category": "Shapes",
+      "label": "Ozone",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+    {
+      "category": "Shapes",
+      "label": "Rectangle",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+    {
+      "category": "Shapes",
+      "label": "Roll",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+ {
+      "category": "Shapes",
+      "label": "Star"
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+ {
+      "category": "Shapes",
+      "label": "Star1",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+ {
+      "category": "Shapes",
+      "label": "Triangle",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+
+
+
+
+ {
+      "category": "Christmas",
+      "label": "Circular",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+ {
+      "category": "Christmas",
+      "label": "Hook",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    }, {
+      "category": "Christmas",
+      "label": "Rectanle",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    }, {
+      "category": "Christmas",
+      "label": "Heart",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    }, {
+      "category": "Christmas",
+      "label": "Snow",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
     }
+
 
   ]
 }
