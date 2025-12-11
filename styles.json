@@ -4,21 +4,21 @@
     {
       "category": "Emoji",
       "label": "Face",
-      "primary": "#000000",
+      "primary": "#00000000",
       "secondary": "#FFFFFF",
       "premium": false
     },
     {
       "category": "Emoji",
       "label": "Dollar",
-      "primary": "#000000",
+      "primary": "#00000000",
       "secondary": "#FFFFFF",
       "premium": false
     },
     {
       "category": "Emoji",
       "label": "Heart",
-      "primary": "#000000",
+      "primary": "#00000000",
       "secondary": "#FFFFFF",
       "premium": false
     },
@@ -53,7 +53,7 @@
     },
     {
       "category": "Shapes",
-      "label": "Star1",
+      "label": "StarGlow",
       "primary": "#000000",
       "secondary": "#FFFFFF",
       "premium": false
