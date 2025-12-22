@@ -26,7 +26,7 @@
     {
       "category": "Shapes",
       "label": "Ozone",
-      "primary": "#000000",
+      "primary": "#FFFFFF",
       "secondary": "#FFFFFF",
       "premium": false
     },
@@ -54,14 +54,14 @@
     {
       "category": "Shapes",
       "label": "StarGlow",
-      "primary": "#000000",
+      "primary": "#FFFFFF",
       "secondary": "#FFFFFF",
       "premium": false
     },
     {
       "category": "Shapes",
       "label": "Triangle",
-      "primary": "#000000",
+      "primary": "#FFFFFF",
       "secondary": "#FFFFFF",
       "premium": false
     },
