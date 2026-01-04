@@ -6,7 +6,7 @@
       "label": "Face",
       "primary": "#00000000",
       "secondary": "#FFFFFF",
-      "premium": false
+      "premium": true
     },
     {
       "category": "Emoji",
@@ -20,7 +20,7 @@
       "label": "Heart",
       "primary": "#00000000",
       "secondary": "#FFFFFF",
-      "premium": false
+      "premium": true
     },
 
     {
@@ -28,7 +28,7 @@
       "label": "Ozone",
       "primary": "#FFFFFF",
       "secondary": "#FFFFFF",
-      "premium": false
+      "premium": true
     },
     {
       "category": "Shapes",
