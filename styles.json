@@ -4,6 +4,13 @@
    {
       "category": "Anime",
       "label": "Blue Hole",
+      "primary": "#00000000",
+      "secondary": "#FFFFFF",
+      "premium": true
+    },
+    {
+      "category": "Anime",
+      "label": "Dragon Ball",
       "primary": "#000000",
       "secondary": "#FFFFFF",
       "premium": false
@@ -13,14 +20,7 @@
       "label": "Devil Fruit",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "premium": false
-    },
-    {
-      "category": "Anime",
-      "label": "Dragon Ball",
-      "primary": "#000000",
-      "secondary": "#FFFFFF",
-      "premium": false
+      "premium": true
     },
     {
       "category": "Anime",
@@ -34,7 +34,7 @@
       "label": "Metal Guard",
       "primary": "#FFFFFF",
       "secondary": "#FFFFFF",
-      "premium": false
+      "premium": true
     },
     {
       "category": "Anime",
@@ -48,7 +48,7 @@
       "label": "Radar Scope",
       "primary": "#FFFFFF",
       "secondary": "#FFFFFF",
-      "premium": false
+      "premium": true
     },
     {
       "category": "Anime",
@@ -62,7 +62,7 @@
       "label": "Straw Hat",
       "primary": "#000000",
       "secondary": "#FFFFFF",
-      "premium": false
+      "premium": true
     },
     {
       "category": "Anime",
