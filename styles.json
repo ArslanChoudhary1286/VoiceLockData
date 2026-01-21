@@ -100,6 +100,78 @@
       "primary": "#000000",
       "secondary": "#FFFFFF",
       "premium": false
+    },
+    {
+      "category": "Anime",
+      "label": "Blue Hole",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+    {
+      "category": "Anime",
+      "label": "Devil Fruit",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+    {
+      "category": "Anime",
+      "label": "Dragon Ball",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+    {
+      "category": "Anime",
+      "label": "Hanafuda Earring",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+    {
+      "category": "Anime",
+      "label": "Metal Guard",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+    {
+      "category": "Anime",
+      "label": "Purple Hole",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+    {
+      "category": "Anime",
+      "label": "Radar Scope",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+    {
+      "category": "Anime",
+      "label": "Steel Guard",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+    {
+      "category": "Anime",
+      "label": "Straw Hat",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
+    },
+    {
+      "category": "Anime",
+      "label": "Void Halo",
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "premium": false
     }
+
+
   ]
 }
