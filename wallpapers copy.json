@@ -1,144 +1,144 @@
 {
-  "dataVersion": 2,
+  "dataVersion": 1,
   "list": [
 
     {
       "category": "Anime",
       "label": "AI",
       "total": 5,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Chainsaw Man",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "cyberpunk",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "D Luffy",
       "total": 2,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Ethereal Tree Light",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Genos",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Goku",
       "total": 3,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Ichigo Kurosaki",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Itachi Uchiha",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Kakashi Hatake",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Ken Kaneki",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Killua Zoldyck",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Lelouch vi Britannia",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Levi Ackerman",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Naruto",
       "total": 4,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Nezuko Kamado",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Pokemon",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Roronoa Zoro",
       "total": 2,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Saitama",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Satoru Gojo",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Sung Jinwoo",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Tanjiro Kamado",
       "total": 2,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Anime",
       "label": "Violet Evergarden",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
 
 
@@ -148,25 +148,25 @@
       "category": "AI",
       "label": "Home",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "AI",
       "label": "Nature",
       "total": 3,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "AI",
       "label": "Crazy",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "AI",
       "label": "Pattern",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
 
 
@@ -175,19 +175,19 @@
       "category": "Nature",
       "label": "Sea",
       "total": 2,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Nature",
       "label": "Stone",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Nature",
       "label": "Tree",
       "total": 3,
-      "premium": false
+      "premium": [1]
     },
 
 
@@ -195,43 +195,43 @@
       "category": "Vehicle",
       "label": "Bike",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Vehicle",
       "label": "Porsche",
       "total": 5,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Vehicle",
       "label": "Bugatti",
       "total": 3,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Vehicle",
       "label": "Ferrari",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Vehicle",
       "label": "GT-R",
       "total": 4,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Vehicle",
       "label": "Lamborghini",
       "total": 5,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Vehicle",
       "label": "Mustang",
       "total": 6,
-      "premium": false
+      "premium": [1]
     },
 
 
@@ -240,13 +240,13 @@
       "category": "People",
       "label": "Boy",
       "total": 2,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "People",
       "label": "Girl",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
 
 
@@ -255,139 +255,139 @@
       "category": "Animals",
       "label": "Horse",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Cat",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Dolphin",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Deer",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Eagle",
       "total": 2,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Kingfishers",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Owl",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Ruby-Throated Hummingbird",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Scarlet Macaw",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Swam",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Dog",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Green Sea Turtle",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Octopus",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Orca",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Seahorse",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Siamese Fighting Fish",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Elephant",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Fox",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Lion",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Panda",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Red Panda",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Tiger",
       "total": 1,
-      "premium": false
+      "premium": [1]
     },
     {
       "category": "Animals",
       "label": "Wolf",
       "total": 1,
-      "premium": false
+      "premium": [1]
     }
 
   ]
